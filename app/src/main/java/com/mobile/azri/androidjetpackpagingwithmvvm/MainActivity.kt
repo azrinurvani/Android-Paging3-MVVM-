@@ -11,6 +11,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.mobile.azri.androidjetpackpagingwithmvvm.databinding.ActivityMainBinding
 import com.mobile.azri.androidjetpackpagingwithmvvm.view.MainViewModel
 
+//    TODO 10
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding : ActivityMainBinding

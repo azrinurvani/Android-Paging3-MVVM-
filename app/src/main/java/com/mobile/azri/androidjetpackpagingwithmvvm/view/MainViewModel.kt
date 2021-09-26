@@ -8,6 +8,7 @@ import com.mobile.azri.androidjetpackpagingwithmvvm.model.CharacterData
 import com.mobile.azri.androidjetpackpagingwithmvvm.model.CharacterListDataSourceFactory
 import java.util.concurrent.Executors
 
+//    TODO 9
 class MainViewModel : ViewModel() {
 
     private var characterList : LiveData<PagedList<CharacterData>>? = null

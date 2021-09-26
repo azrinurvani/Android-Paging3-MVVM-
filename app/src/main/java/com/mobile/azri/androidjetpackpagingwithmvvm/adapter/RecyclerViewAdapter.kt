@@ -9,6 +9,7 @@ import com.mobile.azri.androidjetpackpagingwithmvvm.adapter.DiffUtilCallback
 import com.mobile.azri.androidjetpackpagingwithmvvm.databinding.RecyclerRowItemBinding
 import com.mobile.azri.androidjetpackpagingwithmvvm.model.CharacterData
 
+//    TODO 8
 class RecyclerViewAdapter : PagedListAdapter<CharacterData, RecyclerViewAdapter.RecyclerViewHolder>(DiffUtilCallback()){
 
     private lateinit var bindingHolder : RecyclerRowItemBinding

@@ -5,6 +5,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 class RetroInstance {
 
+    //    TODO 2
     companion object{
         val BASE_URL = "https://rickandmortyapi.com/api/" //character/?page=1
 
